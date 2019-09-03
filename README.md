@@ -1,0 +1,1 @@
+In this project I applied some basic HTML and CSS concepts recreating the Google Homepage. I gained some skills specially styling a HTML basic page.
